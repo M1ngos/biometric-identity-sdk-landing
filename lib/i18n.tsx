@@ -15,6 +15,9 @@ const translations = {
     // Navigation
     "nav.features": "Features",
     "nav.developers": "Developers",
+    "nav.solutions": "Solutions",
+    "nav.security": "Security",
+    "nav.support": "Support",
     "nav.pricing": "Pricing",
     "nav.docs": "Documentation",
     "nav.getStarted": "Get Started",
@@ -29,6 +32,9 @@ const translations = {
     "hero.cta.secondary": "View API Docs",
     "hero.stat.integration": "5 min integration",
     "hero.stat.enterprise": "Enterprise ready",
+
+    // Dev Banner
+    "banner.dev": "🚧 identIA is in active development (alpha) — APIs and SDKs are not yet available",
 
     // Stats
     "stats.verifications": "Verifications",
@@ -99,8 +105,11 @@ const translations = {
     // Navigation
     "nav.features": "Recursos",
     "nav.developers": "Desenvolvedores",
-    "nav.pricing": "Precos",
-    "nav.docs": "Documentacao",
+    "nav.solutions": "Soluções",
+    "nav.security": "Segurança",
+    "nav.support": "Suporte",
+    "nav.pricing": "Preços",
+    "nav.docs": "Documentação",
     "nav.getStarted": "Começar",
 
     // Hero
@@ -109,57 +118,60 @@ const translations = {
     "hero.titleHighlight": "Simplificada",
     "hero.description":
       "Integre reconhecimento facial, leitura de impressão digital e validação de documentos em suas aplicações com nossas APIs e SDKs simples, sem necessidade de expertise em biometria.",
-    "hero.cta.primary": "Começar a construir",
-    "hero.cta.secondary": "Ver documentação",
-    "hero.stat.integration": "Integracao em 5 min",
+    "hero.cta.primary": "Iniciar demo",
+    "hero.cta.secondary": "Ver guia de integração",
+    "hero.stat.integration": "Integração em 5 min",
     "hero.stat.enterprise": "Pronto para empresas",
 
+    // Dev Banner
+    "banner.dev": "🚧 identIA está em desenvolvimento ativo (alpha) — APIs e SDKs ainda não estão disponíveis",
+
     // Stats
-    "stats.verifications": "Verificacoes",
+    "stats.verifications": "Verificações",
     "stats.developers": "Desenvolvedores",
-    "stats.countries": "Paises",
+    "stats.countries": "Países",
     "stats.uptime": "Disponibilidade",
 
     // Features
-    "features.title": "Tudo que Voce Precisa",
-    "features.subtitle": "Kit completo de verificacao de identidade com integracao simples.",
+    "features.title": "Tudo que Você Precisa",
+    "features.subtitle": "Kit completo de verificação de identidade com integração simples.",
 
     "features.facial.title": "Reconhecimento Facial",
     "features.facial.description":
-      "Deteccao de vivacidade avancada e correspondencia facial com protecao anti-fraude. Funciona em todas as condicoes de iluminacao.",
+      "Detecção de vivacidade avançada e correspondência facial com proteção anti-fraude. Funciona em todas as condições de iluminação.",
 
-    "features.fingerprint.title": "Leitura de Impressao Digital",
+    "features.fingerprint.title": "Leitura de Impressão Digital",
     "features.fingerprint.description":
-      "Captura e correspondencia de impressao digital em varios dispositivos com taxas de precisao lideres do setor.",
+      "Captura e correspondência de impressão digital em vários dispositivos com taxas de precisão líderes do setor.",
 
-    "features.document.title": "Validacao de Documentos",
+    "features.document.title": "Validação de Documentos",
     "features.document.description":
-      "Extracao e verificacao automatica de passaportes, RGs e CNHs de mais de 190 paises.",
+      "Extração e verificação automática de passaportes, RGs e CNHs de mais de 190 países.",
 
     "features.api.title": "APIs Simples",
     "features.api.description":
-      "APIs RESTful com documentacao clara. Comece com apenas algumas linhas de codigo.",
+      "APIs RESTful com documentação clara. Comece com apenas algumas linhas de código.",
 
     "features.sdk.title": "SDKs Nativos",
     "features.sdk.description":
       "SDKs para iOS, Android, Web e React Native com componentes de UI integrados.",
 
-    "features.security.title": "Seguranca Empresarial",
+    "features.security.title": "Segurança Empresarial",
     "features.security.description":
-      "Certificado SOC 2 Tipo II. Conformidade com LGPD. Criptografia de ponta a ponta para todos os dados biometricos.",
+      "Certificado SOC 2 Tipo II. Conformidade com LGPD. Criptografia de ponta a ponta para todos os dados biométricos.",
 
     // Code Example
-    "code.title": "Integracao em Minutos",
-    "code.subtitle": "Nossas APIs abstraem a complexidade do processamento biometrico.",
-    "code.comment1": "// Cadastrar novo usuario com biometria facial",
-    "code.comment2": "// Verificar identidade do usuario",
+    "code.title": "Integração em Minutos",
+    "code.subtitle": "Nossas APIs abstraem a complexidade do processamento biométrico.",
+    "code.comment1": "// Cadastrar novo usuário com biometria facial",
+    "code.comment2": "// Verificar identidade do usuário",
 
     // CTA Section
     "cta.title": "Pronto para Começar?",
     "cta.description":
-      "Junte-se a milhares de desenvolvedores construindo verificacao de identidade segura em suas aplicacoes.",
+      "Junte-se a milhares de desenvolvedores construindo verificação de identidade segura em suas aplicações.",
     "cta.button": "Criar Conta Gratuita",
-    "cta.note": "Sem necessidade de cartao de credito. Plano gratuito inclui 1.000 verificacoes/mes.",
+    "cta.note": "Sem necessidade de cartão de crédito. Plano gratuito inclui 1.000 verificações/mês.",
 
     // Footer
     "footer.product": "Produto",
@@ -170,13 +182,13 @@ const translations = {
     "footer.careers": "Carreiras",
     "footer.blog": "Blog",
     "footer.contact": "Contato",
-    "footer.documentation": "Documentacao",
-    "footer.apiReference": "Referencia da API",
+    "footer.documentation": "Documentação",
+    "footer.apiReference": "Referência da API",
     "footer.sdks": "SDKs",
     "footer.status": "Status",
-    "footer.privacy": "Politica de Privacidade",
-    "footer.terms": "Termos de Servico",
-    "footer.security": "Seguranca",
+    "footer.privacy": "Política de Privacidade",
+    "footer.terms": "Termos de Serviço",
+    "footer.security": "Segurança",
     "footer.copyright": "Todos os direitos reservados.",
   },
 }
