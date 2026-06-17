@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Identia - Biometric Identity Platform',
+  title: 'IdenIA - Biometric Identity Platform',
   description: 'Plug-and-play biometric identity verification. Integrate facial recognition, fingerprint scanning, and document validation with simple APIs and SDKs.',
   generator: 'v0.app',
   keywords: ['biometric', 'identity verification', 'facial recognition', 'fingerprint', 'document validation', 'API', 'SDK'],

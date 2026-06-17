@@ -101,7 +101,7 @@ const translations = {
     "nav.developers": "Desenvolvedores",
     "nav.pricing": "Precos",
     "nav.docs": "Documentacao",
-    "nav.getStarted": "Comecar",
+    "nav.getStarted": "Começar",
 
     // Hero
     "hero.badge": "Verificação de Identidade Plug & Play",
@@ -109,8 +109,8 @@ const translations = {
     "hero.titleHighlight": "Simplificada",
     "hero.description":
       "Integre reconhecimento facial, leitura de impressão digital e validação de documentos em suas aplicações com nossas APIs e SDKs simples, sem necessidade de expertise em biometria.",
-    "hero.cta.primary": "Comecar a Construir",
-    "hero.cta.secondary": "Ver Documentacao",
+    "hero.cta.primary": "Começar a construir",
+    "hero.cta.secondary": "Ver documentação",
     "hero.stat.integration": "Integracao em 5 min",
     "hero.stat.enterprise": "Pronto para empresas",
 
@@ -155,7 +155,7 @@ const translations = {
     "code.comment2": "// Verificar identidade do usuario",
 
     // CTA Section
-    "cta.title": "Pronto para Comecar?",
+    "cta.title": "Pronto para Começar?",
     "cta.description":
       "Junte-se a milhares de desenvolvedores construindo verificacao de identidade segura em suas aplicacoes.",
     "cta.button": "Criar Conta Gratuita",
